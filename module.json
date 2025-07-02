@@ -1,7 +1,7 @@
 {
-  "id": "module",
+  "id": "pf2e-hero-deck-unofficial",
   "title": "PF2e Hero Action Deck (Unofficial)",
-  "description": "pf2e-hero-deck-unofficial",
+  "description": "Unofficial Implementation of Pf2e Hero Action Cards as a Deck for fvtt",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
