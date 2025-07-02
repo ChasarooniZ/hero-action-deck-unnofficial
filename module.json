@@ -43,6 +43,19 @@
       "path": "languages/en.json"
     }
   ],
+  "packs": [
+    {
+      "name": "pf2e-hero-action-card-deck-unofficial",
+      "label": "PF2e Hero Action Card Deck (Unofficial)",
+      "path": "packs/pf2e-hero-action-card-deck-unofficial",
+      "type": "Cards",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
