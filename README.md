@@ -7,9 +7,9 @@
 <!--- ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2F<your-module-name>&colorB=4aa94a) -->
 <!--- [![](https://img.shields.io/badge/ko--fi-donate-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/<Kofi Username>)-->
 
-# Hero Action Deck (Unnofficial)
+# PF2e Hero Action Deck (Unofficial)
 
-Unnofficial Implementation of Hero Action Cards as a Deck for fvtt
+Unofficial Implementation of Pf2e Hero Action Cards as a Deck for fvtt
 
 ## Table of Contents
 - [Changelog](#changelog)
