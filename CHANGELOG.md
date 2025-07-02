@@ -1,3 +1,7 @@
+## 0.1.1
+- **Fixes**
+  - Added description to the card face for easy application of the effects
+
 ## 0.1.0
 
 - Initial Release
