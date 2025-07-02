@@ -17,17 +17,25 @@
   ],
   "relationships": {
     "systems": [],
-    "requires": []
+    "requires": [],
+    "recommends": [
+      {
+        "id": "card-hands-list",
+        "type": "module",
+        "reason": "Easier to see the hands.",
+        "compatibility": {}
+      },
+      {
+        "id": "orcnog-card-viewer",
+        "type": "module",
+        "reason": "Make cards very pretty looking.",
+        "compatibility": {}
+      }
+    ]
   },
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
+  "esmodules": ["scripts/module.js"],
+  "scripts": ["scripts/lib/lib.js"],
+  "styles": ["styles/module.css"],
   "languages": [
     {
       "lang": "en",
