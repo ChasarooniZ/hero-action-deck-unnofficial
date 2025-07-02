@@ -12,28 +12,35 @@
 Unofficial Implementation of Pf2e Hero Action Cards as a Deck for fvtt
 
 ## Table of Contents
+
 - [Changelog](#changelog)
 - [Contributors](#contributors)
 
 ## Content Usage and Licensing:
+
 - Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
 
 ## Assets
-Each is under their respective license
+
+Each is under their respective license (I assembled the card BG and card art together myself)
+
 - Cards
-  -  [Mechanized Magic: 2D Vector Cards Pack by Dumivid](https://dumivid.itch.io/mechanized-magic-2d-vector-fantasy-robot-cards-pack)
-  -  [Game Icons](https://game-icons.net/)
-  -  [Baloo 2 Font](https://fonts.google.com/specimen/Baloo+2)
--  Card Art
-  -  [Skill & Abilities Icon Pack #1 by Wenrexa - itch.io](https://wenrexa.itch.io/skill-icon-pack-wenrexa-1/download/GvzsiA2wdC0vRvpVz49Ipcptb9A0Q__klkuSh1jS)
-  -  [Skill & Abilities Icon Pack #2 by Wenrexa](https://wenrexa.itch.io/skill-icon-pack-wenrexa-2)
-  -  [Skill & Abilities Icon Pack #3 by Wenrexa](https://wenrexa.itch.io/spells-3)
-  -  [Free RPG Night Elf Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-rpg-night-elf-skill-icons)
-  -  [Free 50 Aeromancer Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-50-rpg-aeromancer-skill-icons)
-  -  [Free Paladin Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-paladin-skill-icon-pack)
-  -  [Free Pirate Skill 512x512 Icons by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-rpg-pirate-skill-icons)
+  - [Mechanized Magic: 2D Vector Cards Pack by Dumivid](https://dumivid.itch.io/mechanized-magic-2d-vector-fantasy-robot-cards-pack)
+  - [Game Icons](https://game-icons.net/)
+  - [Baloo 2 Font](https://fonts.google.com/specimen/Baloo+2)
+- Card Art
+  - [Skill & Abilities Icon Pack #1 by Wenrexa - itch.io](https://wenrexa.itch.io/skill-icon-pack-wenrexa-1/download/GvzsiA2wdC0vRvpVz49Ipcptb9A0Q__klkuSh1jS)
+  - [Skill & Abilities Icon Pack #2 by Wenrexa](https://wenrexa.itch.io/skill-icon-pack-wenrexa-2)
+  - [Skill & Abilities Icon Pack #3 by Wenrexa](https://wenrexa.itch.io/spells-3)
+  - [Free RPG Night Elf Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-rpg-night-elf-skill-icons)
+  - [Free 50 Aeromancer Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-50-rpg-aeromancer-skill-icons)
+  - [Free Paladin Skills by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-paladin-skill-icon-pack)
+  - [Free Pirate Skill 512x512 Icons by Free Game Assets (GUI, Sprite, Tilesets)](https://free-game-assets.itch.io/free-rpg-pirate-skill-icons)
 
 ## Changelog
+
 You can access the changelog [here](/CHANGELOG.md).
+
 ## Contributors
+
 You can see everyone else who contributed to the module [here](CONTRIBUTORS.md)
